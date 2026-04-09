@@ -1,50 +1,96 @@
-👋 Hi, I'm Dipankar Pandit
-🚀 Aspiring Software Developer | Problem Solver | Tech Enthusiast
-✨ About Me
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Dipankar+Pandit;Aspiring+Software+Developer;I+Build+Smart+Projects+🚀;Always+Learning+New+Things" />
+</p>
 
-💡 Passionate about building real-world software solutions
-🧠 Strong in problem-solving & logical thinking
-🌱 Currently learning and exploring new technologies
-🎯 Goal: To become a skilled Software Engineer
+<!-- 🌌 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=200&section=header&text=Dipankar%20Pandit&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
 
-🧰 Tech Stack
+---
 
-💻 Languages
-C • Python • Java • JavaScript
+## 🚀 About Me  
+✨ Turning ideas into real-world applications  
+🧠 Strong problem-solving mindset  
+💻 Passionate about coding & innovation  
+🌱 Constantly learning & growing  
 
-🌐 Web Development
-HTML • CSS • JavaScript
+---
 
-🛠️ Tools & Platforms
-Git • GitHub • VS Code
+## 🧰 Tech Stack  
 
-🚀 Featured Projects
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,git,github,vscode" />
+</p>
 
-🔹 AI Code Debugger
-→ Multi-language code analyzer with error detection & complexity analysis
+---
 
-🔹 Resume Analyzer
-→ ATS-based resume feedback system with smart suggestions
+## 🔥 Featured Projects  
 
-🔹 Weather Dashboard
-→ Real-time weather app using API integration
+🚀 **AI Code Debugger**  
+→ Multi-language debugging + complexity analysis  
 
-🔹 Password Strength Checker
-→ Advanced password analysis with security insights
+📄 **Resume Analyzer**  
+→ Smart ATS-based resume checker  
 
-🔹 World Clock & Unit Converter
-→ Interactive tools with clean UI
+🌦️ **Weather Dashboard**  
+→ Real-time API-based weather app  
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dipankar292005&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar292005&theme=tokyonight" /> </p>
-🌐 Connect With Me
+🔐 **Password Strength Checker**  
+→ Advanced security analysis tool  
 
-💼 LinkedIn
-https://linkedin.com/in/dipankar-pandit-a95224270/
+🌍 **World Clock & Unit Converter**  
+→ Interactive utilities with clean UI  
 
-💻 GitHub
-https://github.com/dipankar292005
+---
 
-⚡ Quote I Follow
+## 📊 GitHub Analytics  
 
-"Code is not just syntax, it's a way to solve real-world problems."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipankar292005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar292005&theme=tokyonight&hide_border=true&background=0D1117" height="150"/>
+</p>
+
+---
+
+## 📈 Activity Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipankar292005&theme=react-dark&bg_color=0D1117&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/dipankar-pandit-a95224270/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://github.com/dipankar292005">
+    <img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<!-- 🐍 Snake Animation -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<!-- 🔥 Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00F7FF&height=120&section=footer"/>
+</p>
