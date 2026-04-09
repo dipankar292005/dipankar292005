@@ -1,75 +1,23 @@
-# 👋 Hi, I'm Dipankar Pandit! 
-### 🚀 3rd Year Computer Science Student | Web Developer | Problem Solver
+<h1 align="center">Hi 👋, I'm Dipankar Pandit</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20World!&fontSize=70&animation=fadeIn" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipankar292005&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar292005" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipankar292005" alt="dipankar292005" /></a> </p>
 
-### 💫 About Me
-- 🎓 Pursuing **B.Tech in CSE** at Birbhum Institute of Engineering and Technology (2023-2027).
-- 🏆 Recognized as the **Best Problem Solver** in my college.
-- 👨‍💻 Passionate about building practical tools and exploring AI.
-- ⚡ Fun fact: I'm an introvert who communicates best through **clean code** and **team collaboration**.
+- 📫 How to reach me **dp90000000009@gmail.com**
 
----
-
-### 🛠️ Tech Stack & Skills
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dipankar-pandit-a95224270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipankar-pandit-a95224270/" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/712617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="712617" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### 🚀 Top Projects
-*Keep an eye on these live demos:*
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipankar292005&show_icons=true&locale=en&layout=compact" alt="dipankar292005" /></p>
 
-| Project | Live Link | Status |
-| :--- | :--- | :--- |
-| **🌤️ Weather Dashboard** | [View Demo](https://dipankar292005.github.io/Live-Weather-Dashboard-/) | ✅ Completed |
-| **📄 Resume Analyzer** | [View Demo](https://dipankar292005.github.io/Resume-Analyzer/) | ✅ Completed |
-| **🔐 Password Strength Checker** | [View Demo](https://dipankar292005.github.io/Advanced-Password-Strength-Checker/) | ✅ Completed |
-| **🌐 World Clock** | [View Demo](https://dipankar292005.github.io/World-Clock/) | ✅ Completed |
-| **🤖 AI Code Debugger** | *Internal Repo* | 🚧 In Progress |
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipankar292005&show_icons=true&locale=en" alt="dipankar292005" /></p>
 
----
-
-### 📈 GitHub Stats & Activity
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dipankar292005&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar292005&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar292005&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏆 Certifications
-- 🥇 **C Programming Foundations** (2025)
-- 🐍 **Fundamentals of Python** (2025)
-- 🌐 **Front-End Web Development** (2025)
-- ☕ **Java OOP** (2025)
-
----
-
-### 📬 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/dipankar-pandit-a95224270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dipankar Pandit" height="30" width="40" /></a>
-<a href="mailto:dp90000000009@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="dp90000000009@gmail.com" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipankar292005&label=Profile%20views&color=0e75b6&style=flat" alt="dipankar292005" />
-</p>
-
-![Snake animation](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipankar292005&" alt="dipankar292005" /></p>
