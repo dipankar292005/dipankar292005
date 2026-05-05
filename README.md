@@ -40,27 +40,6 @@
 
 ---
 
-## 🚀 Projects
-- 🌦️ **Weather Dashboard**  
-  🔗 https://dipankar292005.github.io/Live-Weather-Dashboard-/
-
-- 📄 **Resume Analyzer Web App**  
-  🔗 https://dipankar292005.github.io/Resume-Analyzer/
-
-- 🔐 **Advanced Password Strength Checker**  
-  🔗 https://dipankar292005.github.io/Advanced-Password-Strength-Checker/
-
-- 🌍 **World Clock**  
-  🔗 https://dipankar292005.github.io/-World-Clock/
-
-- 🔢 **Unit Converter**  
-  🔗 https://dipankar292005.github.io/Unit-Converter/
-
-- 🧮 **Advanced Calculator**  
-  🔗 https://dipankar292005.github.io/Advanced-Calculator/
-
-- 🤖 **AI Code Debugger** (In Progress)
-
 ---
 
 ## 📊 GitHub Stats
